@@ -148,7 +148,7 @@ An AI-powered invoice and finance management SaaS platform designed for freelanc
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- Replace the following placeholders with your actual profile URLs -->
-  <a href="YOUR_YOUTUBE_URL">
+  <a href="https://www.youtube.com/@codestudiolab">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
